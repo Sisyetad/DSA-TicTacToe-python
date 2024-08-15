@@ -27,8 +27,8 @@
             │   ├── board.py         # Contains the Board class managing the game state.<br>
             │   ├── player.py        # Defines the abstract Player class and HumanPlayer class.<br>
             │   ├── ai_player.py     # Implements the AIPlayer class using dynamic programming.<br>
-            |   ├── ui
-            |        ├── gui.py
+            │   ├── ui/<br>
+            │   ├──   ├── gui.py<br>
             ├── main.py              # Main script to run the Tic-Tac-Toe game.<br>
             └── __init__.py<br>
         </div>
@@ -42,9 +42,9 @@
         <h2>How to Run the Game</h2>
         <div class="commands">
             1. <strong>Clone the repository:</strong><br>
-            <code>git clone https://github.com/your-username/tic-tac-toe.git</code><br><br>
+            <code>git clone https://github.com/Sisyetad/DSA-TicTacToe-python.git</code><br><br>
             2. <strong>Navigate to the project directory:</strong><br>
-            <code>cd tic_tac_toe</code><br><br>
+            <code>cd Sisyetad/DSA-TicTacToe-python</code><br><br>
             3. <strong>Run the game:</strong><br>
             <code>python main.py</code><br><br>
             4. <strong>Gameplay Instructions:</strong><br>
@@ -77,7 +77,7 @@ player O : 1 1
             This project is licensed under the MIT License. See the <code>LICENSE</code> file for more details.
         </p>
         <footer>
-            &copy; 2024 Your Name. All rights reserved.
+            &copy; 2024 Sisay Tadewos. All rights reserved.
         </footer>
     </div>
 </body>
